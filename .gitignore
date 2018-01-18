@@ -1,3 +1,21 @@
 _site
 .sass-cache
 .jekyll-metadata
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### Emacs ###
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+

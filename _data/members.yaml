@@ -1,0 +1,21 @@
+- group : Faculty
+  people :
+    - name : Deniz Yuret
+      github: denizyuret
+      url: "http://www.denizyuret.com"
+      title : Assoc. Professor
+      githubid: 1822118
+
+- group : Gradudate Students
+  people:
+    - name : Ozan Arkan Can
+      github: ozanarkancan
+      url: "https://www.github.com/ozanarkancan"
+      title : PhD Student
+      githubid: 1032184
+    - name : İlker Kesen
+      github: ilkerkesen
+      url: "https://www.github.com/ilkerkesen"
+      title : PhD Student
+      githubid: 2810691
+     
